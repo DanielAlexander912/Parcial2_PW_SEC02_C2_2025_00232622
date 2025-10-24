@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAlexander912/Parcial2_PW_SEC02_C2_2025_00232622.git"
+  },
+  "author": "DanielAlexander912",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAlexander912/Parcial2_PW_SEC02_C2_2025_00232622/issues"
+  },
+  "homepage": "https://github.com/DanielAlexander912/Parcial2_PW_SEC02_C2_2025_00232622#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
